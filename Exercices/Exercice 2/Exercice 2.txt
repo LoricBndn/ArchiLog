@@ -1,0 +1,4 @@
+Pourquoi utiliser le pattern Décorateur ?
+    - Ajout d'options flexible : on peut empiler autant d'options qu'on veut.
+    - Pas de modification des classes existantes : si on veut une nouvelle option (ex: Chantilly), il suffit d'ajouter une nouvelle classe.
+    - Code modulaire et évolutif : chaque option est indépendante, donc facile à maintenir et réutiliser.
